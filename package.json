@@ -1,0 +1,10 @@
+{
+  "name": "MWallet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rootkit",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.17.2"
+  }
+}
